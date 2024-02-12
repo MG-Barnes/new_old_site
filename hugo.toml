@@ -1,0 +1,5 @@
+baseURL = 'https://mgbarnes.com/'
+languageCode = 'en-us'
+title = 'Smart + Soft Manufacturing Group'
+theme = 'ananke'
+
