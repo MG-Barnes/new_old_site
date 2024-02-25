@@ -1,7 +1,7 @@
 baseURL = 'https://mgbarnes.com/'
 languageCode = 'en-us'
 title = 'Smart Manufacturing Group'
-theme = 'ananke'
+theme = 'MGB'
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
