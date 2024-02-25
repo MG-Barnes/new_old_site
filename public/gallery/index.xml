@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery on Smart Manufacturing Group</title>
+    <link>https://mgbarnes.com/gallery/</link>
+    <description>Recent content in Gallery on Smart Manufacturing Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2016 11:00:59 -0400</lastBuildDate>
+    <atom:link href="https://mgbarnes.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
+      <link>https://mgbarnes.com/gallery/lce_face/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/gallery/lce_face/</guid>
+      <description>adsf</description>
+    </item>
+    <item>
+      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
+      <link>https://mgbarnes.com/gallery/lce_flower/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/gallery/lce_flower/</guid>
+      <description>adsf</description>
+    </item>
+    <item>
+      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
+      <link>https://mgbarnes.com/gallery/prl/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/gallery/prl/</guid>
+      <description>adsf</description>
+    </item>
+    <item>
+      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
+      <link>https://mgbarnes.com/gallery/topography/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/gallery/topography/</guid>
+      <description>adsf</description>
+    </item>
+    <item>
+      <title>Self-Assembled LCE Microstructure</title>
+      <link>https://mgbarnes.com/gallery/lc_phase_separation/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/gallery/lc_phase_separation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Twisted Twins</title>
+      <link>https://mgbarnes.com/gallery/aps_poster/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/gallery/aps_poster/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,17 +1,179 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soft &#43; Smart Manufacturing Group on Smart &#43; Soft Manufacturing Group</title>
+    <title>Smart Manufacturing Group</title>
     <link>https://mgbarnes.com/</link>
-    <description>Recent content in Soft &#43; Smart Manufacturing Group on Smart &#43; Soft Manufacturing Group</description>
+    <description>Recent content on Smart Manufacturing Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2024 11:00:59 -0400</lastBuildDate>
     <atom:link href="https://mgbarnes.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Publications</title>
-      <link>https://mgbarnes.com/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mgbarnes.com/publications/</guid>
+      <title>Geometry, mechanics and actuation of intrinsically curved folds</title>
+      <link>https://mgbarnes.com/post/pub_18/</link>
+      <pubDate>Thu, 01 Feb 2024 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_18/</guid>
+      <description>We combine theory and experiments to explore the kinematics and actuation of intrinsically curved folds (ICFs) in otherwise developable shells. Unlike origami folds, ICFs are not bending isometries of flat sheets, but arise via non-isometric processes (growth/moulding) or by joining sheets along curved boundaries. Experimentally, we implement both, first making joined ICFs from paper, then fabricating flat liquid crystal elastomer (LCE) sheets that morph into ICFs upon heating/swelling via programmed metric changes.</description>
+    </item>
+    <item>
+      <title>Surface instability in a nematic elastomer</title>
+      <link>https://mgbarnes.com/post/pub_17/</link>
+      <pubDate>Thu, 07 Dec 2023 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_17/</guid>
+      <description>Liquid crystal elastomers (LCEs) are soft phase-changing solids that exhibit large reversible contractions upon heating, Goldstone-like soft modes, and resultant microstructural instabilities. We heat a planar LCE slab to isotropic, clamp the lower surface, then cool back to nematic. Clamping prevents macroscopic elongation, producing compression and microstructure. We see that the free surface destabilizes, adopting topography with amplitude and wavelength similar to thickness. To understand the instability, we numerically compute the microstructural relaxation of a “nonideal” LCE energy.</description>
+    </item>
+    <item>
+      <title>Processing dynamics of carbon nanotube-epoxy nanocomposites during 3D printing</title>
+      <link>https://mgbarnes.com/post/pub_16/</link>
+      <pubDate>Wed, 18 Oct 2023 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_16/</guid>
+      <description>Carbon nanotube (CNT)-reinforced polymer nanocomposites are promising candidates for a myriad of applications. Ad hoc CNT-polymer nanocomposite fabrication techniques inherently pose roadblocks to optimized processing, resulting in microstructural defects, i.e., void formation, poor interfacial adhesion, wettability, and agglomeration of CNTs inside the polymer matrix. Here, we show that a 3D printing technique offers improved processing of CNT-polymer nanocomposites. During printing, the shear-induced flow of an engineered nanocomposite ink through the micronozzle is beneficial, as it reduces the number of voids within the epoxy matrix, improves CNT dispersion and adhesion with epoxy, and partially aligns the CNTs.</description>
+    </item>
+    <item>
+      <title>Synthesis and Additive Manufacturing of Hydrazone-Linked Covalent Organic Framework Aerogels</title>
+      <link>https://mgbarnes.com/post/pub_15/</link>
+      <pubDate>Mon, 04 Sep 2023 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_15/</guid>
+      <description>Covalent Organic Frameworks (COFs) are crystalline, porous organic materials. Recent studies have demonstrated novel processing strategies for COFs to form adaptable architectures, but these have focused primarily on imine-linked COFs. This work presents a new synthesis and processing route to produce crystalline hydrazone-linked COF gels and aerogels with hierarchical porosity. The method was implemented to produce a series of hydrazone-linked COFs with different alkyl side-chain substituents, achieving control of the hydrophilicity of the final aerogel.</description>
+    </item>
+    <item>
+      <title>Understanding the effect of liquid crystal content on the phase behavior and mechanical properties of liquid crystal elastomers</title>
+      <link>https://mgbarnes.com/post/pub_13/</link>
+      <pubDate>Mon, 20 Jun 2022 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_13/</guid>
+      <description>Liquid crystal elastomers are stimuli-responsive, shape-shifting materials. They typically require high temperatures for actuation which prohibits their use in many applications, such as biomedical devices. In this work, we demonstrate a simple and general approach to tune the order-to-disorder transition temperature (TODT) or nematic-to-isotropic transition temperature (TNI) of LCEs through variation of the overall liquid crystal mass content. We demonstrate reduction of the TNI in nematic LCEs through the incorporation of non-mesogenic linkers or the addition of lithium salts, and show that the TNI varies linearly with liquid crystal mass content over a broad range, approximately 50 °C.</description>
+    </item>
+    <item>
+      <title>Highly Crystalline, Free-Standing Covalent Organic Framework Films Produced Directly from Monomer Solutions</title>
+      <link>https://mgbarnes.com/post/pub_12/</link>
+      <pubDate>Mon, 07 Feb 2022 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_12/</guid>
+      <description>Films made from covalent organic frameworks (COFs) are promising for a variety of applications, such as membranes for chemical separation, mechanically robust engineering materials, and components of energy storage devices. However, current techniques for synthesizing imine-based COF films use methods that are difficult to scale, produce films of only nanometer-scale thickness, or yield films with modest surface areas and low crystallinity. Here, a facile, scalable process for casting free-standing, imine-based COF films tens of microns in thickness directly from a solution of monomers in trifluoroacetic acid and water is reported for the first time.</description>
+    </item>
+    <item>
+      <title>Corrosion Resistance of Sulfur-Selenium Alloy Coatings</title>
+      <link>https://mgbarnes.com/post/pub_11/</link>
+      <pubDate>Fri, 15 Oct 2021 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_11/</guid>
+      <description>Despite decades of research, metallic corrosion remains a long-standing challenge in many engineering applications. Specifically, designing a material that can resist corrosion both in abiotic as well as biotic environments remains elusive. Here a lightweight sulfur–selenium (S–Se) alloy is designed with high stiffness and ductility that can serve as an excellent corrosion-resistant coating with protection efficiency of ≈99.9% for steel in a wide range of diverse environments. S–Se coated mild steel shows a corrosion rate that is 6–7 orders of magnitude lower than bare metal in abiotic (simulated seawater and sodium sulfate solution) and biotic (sulfate-reducing bacterial medium) environments.</description>
+    </item>
+    <item>
+      <title>Patterning, Transfer, and Tensile Testing of Covalent Organic Framework Films with Nanoscale Thickness</title>
+      <link>https://mgbarnes.com/post/pub_10/</link>
+      <pubDate>Sun, 08 Aug 2021 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_10/</guid>
+      <description>Covalent organic frameworks (COFs) are promising materials for a variety of applications, including membrane-based separations, thin-film electronics, and as separators for electrochemical devices. Robust mechanical properties are critical to these applications, but there are no reliable methods for patterning COFs or producing free-standing thin films for direct mechanical testing. Mechanical testing of COFs has only been performed on films supported by a rigid substrate. Here, we present a method for patterning, transferring, and measuring the tensile properties of free-floating nanoscale COF films.</description>
+    </item>
+    <item>
+      <title>Covalent Organic Frameworks for Batteries</title>
+      <link>https://mgbarnes.com/post/pub_9/</link>
+      <pubDate>Thu, 03 Jun 2021 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_9/</guid>
+      <description>Covalent organic frameworks (COFs) have emerged as an exciting new class of porous materials constructed by organic building blocks via dynamic covalent bonds. They have been extensively explored as potentially superior candidates for electrode materials, electrolytes, and separators, due to their tunable chemistry, tailorable structures, and well-defined pores. These features enable rational design of targeted functionalities, facilitate the penetration of electrolytes, and enhance ion transport. This review provides an in-depth summary of the recent progress in the development of COFs for diverse battery applications, including lithium-ion, lithium–sulfur, sodium-ion, potassium-ion, lithium–CO2, zinc-ion, zinc–air batteries, etc.</description>
+    </item>
+    <item>
+      <title>Pure Crystalline Covalent Organic Framework Aerogels</title>
+      <link>https://mgbarnes.com/post/pub_8/</link>
+      <pubDate>Mon, 24 May 2021 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_8/</guid>
+      <description>Covalent organic frameworks (COFs) are crystalline organic materials of interest for a wide range of applications due to their porosity, tunable architecture, and precise chemistry. However, COFs are typically produced in powder form and are difficult to process. Herein, we report a simple and versatile approach to fabricate macroscopic, crystalline COF gels and aerogels. Our method involves the use of dimethyl sulfoxide as a solvent and acetic acid as a catalyst to first produce a COF gel.</description>
+    </item>
+    <item>
+      <title> Rapid, Ambient Temperature Synthesis of Imine Covalent Organic Frameworks Catalyzed by Transition Metal Nitrates</title>
+      <link>https://mgbarnes.com/post/pub_7/</link>
+      <pubDate>Thu, 29 Apr 2021 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_7/</guid>
+      <description>Covalent organic frameworks (COFs) are crystalline, porous organic materials that are promising for applications including catalysis, energy storage, electronics, gas storage, water treatment, and drug delivery. Conventional solvothermal synthesis approaches require elevated temperatures, inert environments, and long reaction times. Herein, we show that transition-metal nitrates can catalyze the rapid synthesis of imine COFs under ambient conditions. We first tested a series of transition metals for the synthesis of a model COF and found that all transition-metal nitrates tested produced crystalline COF products even in the presence of oxygen.</description>
+    </item>
+    <item>
+      <title>Multifunctional Bio-Nanocomposite Coatings for Perishable Fruits</title>
+      <link>https://mgbarnes.com/post/pub_4/</link>
+      <pubDate>Mon, 04 May 2020 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_4/</guid>
+      <description>Hunger and chronic undernourishment impact over 800 million people, which translates to ≈10.7% of the world&amp;rsquo;s population. While countries are increasingly making efforts to reduce poverty and hunger by pursuing sustainable energy and agricultural practices, a third of the food produced around the globe still is wasted and never consumed. Reducing food shortages is vital in this effort and is often addressed by the development of genetically modified produce or chemical additives and inedible coatings, which create additional health and environmental concerns.</description>
+    </item>
+    <item>
+      <title>Enabling Solution Processable COFs through Suppression of Precipitation during Solvothermal Synthesis</title>
+      <link>https://mgbarnes.com/post/pub_14/</link>
+      <pubDate>Fri, 10 May 2019 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_14/</guid>
+      <description>Covalent organic frameworks (COFs) are crystalline, nanoporous materials of interest for various applications, but current COF synthetic routes lead to insoluble aggregates which precludes processing for practical implementation. Here, we report a COF synthesis method that produces a stable, homogeneous suspension of crystalline COF nanoparticles that enables the preparation of COF monoliths, membranes, and films using conventional solution-processing techniques. Our approach involves the use of a polar solvent, diacid catalyst, and slow reagent mixing procedure at elevated temperatures which altogether enable access to crystalline COF nanoparticle suspension that does not aggregate or precipitate when kept at elevated temperatures.</description>
+    </item>
+    <item>
+      <title>Reactive 3D Printing of Shape Programmable Liquid Crystal Elastomer Actuators</title>
+      <link>https://mgbarnes.com/post/pub_5/</link>
+      <pubDate>Fri, 10 May 2019 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_5/</guid>
+      <description>3D printed, stimuli-responsive materials that reversibly actuate between programmed shapes are promising for applications ranging from biomedical implants to soft robotics. However, current 3D printing of reversible actuators significantly limits the range of possible shapes and/or shape responses because they couple the print path to mathematically determined director profiles to elicit a desired shape change. Here, we report a reactive 3D-printing method that decouples printing and shape-programming steps, enabling a broad range of complex architectures and virtually any arbitrary shape changes.</description>
+    </item>
+    <item>
+      <title>Transformation of One-Dimensional Linear Polymers into Two-Dimensional Covalent Organic Frameworks Through Sequential Reversible and Irreversible Chemistriesg</title>
+      <link>https://mgbarnes.com/post/pub_6/</link>
+      <pubDate>Fri, 10 May 2019 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_6/</guid>
+      <description>Covalent organic frameworks (COFs) are crystalline porous materials linked by dynamic covalent bonds. Dynamic chemistries enable the transformation of an initially amorphous network into a porous and crystalline COF. While dynamic chemistries have been leveraged to realize transformations between different types of COFs, including transformations from two-dimensional (2D) to three-dimensional (3D) COFs and insertion of different linking groups, the transformation of linear polymers into COFs has not yet been reported. Herein, we demonstrate an approach to transform linear imine-linked polymers into ketone-linked COFs through a linker replacement strategy with triformylphloroglucinol (TPG).</description>
+    </item>
+    <item>
+      <title>Fiber Reinforced Layered Dielectric Nanocomposite</title>
+      <link>https://mgbarnes.com/post/pub_3/</link>
+      <pubDate>Wed, 08 May 2019 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_3/</guid>
+      <description>Polymer dielectrics find applications in modern electronic and electrical technologies due to their low density, durability, high dielectric breakdown strength, and design flexibility. However, they are not reliable at high temperatures due to their low mechanical integrity and thermal stability. Herein, a self-assembled dielectric nanocomposite is reported, which integrates 1D polyaramid nanofibers and 2D boron nitride nanosheets through a vacuum-assisted layer-by-layer infiltration process. The resulting nanocomposite exhibits hierarchical stacking between the 2D nanosheets and 1D nanofibers.</description>
+    </item>
+    <item>
+      <title>Direct shape programming of liquid crystal elastomers</title>
+      <link>https://mgbarnes.com/post/pub_2/</link>
+      <pubDate>Sat, 02 Feb 2019 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_2/</guid>
+      <description>Liquid crystal elastomers (LCEs) are shape morphing materials promising for many applications including soft robotics, actuators, and biomedical devices, but current LCE synthesis techniques lack a simple method to program new and arbitrary shape changes. Here, we demonstrate a straightforward method to directly program complex, reversible, non-planar shape changes in nematic LCEs. We utilize a double network synthesis process that results in a competitive double network LCE. By optimizing the crosslink densities of the first and second network we can mechanically program non-planar shapes with strains between 4–100%.</description>
+    </item>
+    <item>
+      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
+      <link>https://mgbarnes.com/gallery/lce_face/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/gallery/lce_face/</guid>
+      <description>adsf</description>
+    </item>
+    <item>
+      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
+      <link>https://mgbarnes.com/gallery/lce_flower/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/gallery/lce_flower/</guid>
+      <description>adsf</description>
+    </item>
+    <item>
+      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
+      <link>https://mgbarnes.com/gallery/prl/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/gallery/prl/</guid>
+      <description>adsf</description>
+    </item>
+    <item>
+      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
+      <link>https://mgbarnes.com/gallery/topography/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/gallery/topography/</guid>
+      <description>adsf</description>
+    </item>
+    <item>
+      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
+      <link>https://mgbarnes.com/post/pub_1/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/post/pub_1/</guid>
+      <description>Liquid crystal elastomers (LCEs) are shape-responsive materials that combine the elastic properties of a polymer network with the molecular ordering and responsiveness of liquid crystals. Recent work has relied on step-growth chemistries to produce LCEs with remarkable diversity and functionality. However, the connection between molecular structure and macroscopic properties such as shape responsiveness and phase behavior are poorly understood. Here, we demonstrate general molecular design principles for increasing shape-responsiveness and reducing the glass-transition temperature of LCEs produced through step-growth chemistries.</description>
+    </item>
+    <item>
+      <title>Self-Assembled LCE Microstructure</title>
+      <link>https://mgbarnes.com/gallery/lc_phase_separation/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/gallery/lc_phase_separation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Twisted Twins</title>
+      <link>https://mgbarnes.com/gallery/aps_poster/</link>
+      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
+      <guid>https://mgbarnes.com/gallery/aps_poster/</guid>
       <description></description>
     </item>
     <item>
@@ -19,7 +181,7 @@
       <link>https://mgbarnes.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mgbarnes.com/research/</guid>
-      <description></description>
+      <description>Biology has no distinct separation between the material, structure, and machine. Rather, there is a nested, cohesive functionality across all length scales to produce extraordinary functions where the material itself is the machine. To bridge the gap between engineered and biological soft solids our group merges recent polymer advances to design smart materials with hierarchical functionality for applications in soft-robotics, responsive biomimetic devices, and haptic displays.&#xA;At the molecular level, we use chemistry to obtain sophisticated intrinsic functionality such as dynamic bonds for ’green’ recylability or memory and azo-benzene derivatives for photo-responsiveness, and liquid crystals for phase-dependent shape-shifting.</description>
     </item>
   </channel>
 </rss>
