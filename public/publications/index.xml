@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Smart Manufacturing Group</title>
-    <link>https://mgbarnes.com/</link>
-    <description>Recent content on Smart Manufacturing Group</description>
+    <title>Publications on Smart Manufacturing Group</title>
+    <link>https://mgbarnes.com/publications/</link>
+    <description>Recent content in Publications on Smart Manufacturing Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Feb 2024 11:00:59 -0400</lastBuildDate>
-    <atom:link href="https://mgbarnes.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mgbarnes.com/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Geometry, mechanics and actuation of intrinsically curved folds</title>
       <link>https://mgbarnes.com/publications/pub_18/</link>
@@ -129,59 +129,10 @@
     </item>
     <item>
       <title>Molecular engineering of step-growth liquid crystal elastomers</title>
-      <link>https://mgbarnes.com/gallery/lce_face/</link>
-      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
-      <guid>https://mgbarnes.com/gallery/lce_face/</guid>
-      <description>adsf</description>
-    </item>
-    <item>
-      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
-      <link>https://mgbarnes.com/gallery/lce_flower/</link>
-      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
-      <guid>https://mgbarnes.com/gallery/lce_flower/</guid>
-      <description>adsf</description>
-    </item>
-    <item>
-      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
-      <link>https://mgbarnes.com/gallery/prl/</link>
-      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
-      <guid>https://mgbarnes.com/gallery/prl/</guid>
-      <description>adsf</description>
-    </item>
-    <item>
-      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
-      <link>https://mgbarnes.com/gallery/topography/</link>
-      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
-      <guid>https://mgbarnes.com/gallery/topography/</guid>
-      <description>adsf</description>
-    </item>
-    <item>
-      <title>Molecular engineering of step-growth liquid crystal elastomers</title>
       <link>https://mgbarnes.com/publications/pub_1/</link>
       <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
       <guid>https://mgbarnes.com/publications/pub_1/</guid>
       <description>Liquid crystal elastomers (LCEs) are shape-responsive materials that combine the elastic properties of a polymer network with the molecular ordering and responsiveness of liquid crystals. Recent work has relied on step-growth chemistries to produce LCEs with remarkable diversity and functionality. However, the connection between molecular structure and macroscopic properties such as shape responsiveness and phase behavior are poorly understood. Here, we demonstrate general molecular design principles for increasing shape-responsiveness and reducing the glass-transition temperature of LCEs produced through step-growth chemistries.</description>
-    </item>
-    <item>
-      <title>Self-Assembled LCE Microstructure</title>
-      <link>https://mgbarnes.com/gallery/lc_phase_separation/</link>
-      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
-      <guid>https://mgbarnes.com/gallery/lc_phase_separation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Twisted Twins</title>
-      <link>https://mgbarnes.com/gallery/aps_poster/</link>
-      <pubDate>Thu, 29 Dec 2016 11:00:59 -0400</pubDate>
-      <guid>https://mgbarnes.com/gallery/aps_poster/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>https://mgbarnes.com/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mgbarnes.com/research/</guid>
-      <description>Biology has no distinct separation between the material, structure, and machine. Rather, there is a nested, cohesive functionality across all length scales to produce extraordinary functions where the material itself is the machine. To bridge the gap between engineered and biological soft solids our group merges recent polymer advances to design smart materials with hierarchical functionality for applications in soft-robotics, responsive biomimetic devices, and haptic displays.&#xA;At the molecular level, we use chemistry to obtain sophisticated intrinsic functionality such as dynamic bonds for ’green’ recylability or memory and azo-benzene derivatives for photo-responsiveness, and liquid crystals for phase-dependent shape-shifting.</description>
     </item>
   </channel>
 </rss>
