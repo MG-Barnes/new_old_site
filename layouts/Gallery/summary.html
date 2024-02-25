@@ -1,0 +1,12 @@
+{{ $featured_image := partial "../partials/func/GetFeaturedImage.html" . }}
+  <div class="mb3 pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+    {{ if .Date }}
+    {{ end }}
+    <h1 class="f3 near-black">
+      <a href="{{.RelPermalink}}" class="link black dim">
+      </a>
+      hello
+
+    </h1>
+  <a href="{{.RelPermalink}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
+  </div>

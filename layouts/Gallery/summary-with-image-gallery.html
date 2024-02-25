@@ -1,0 +1,9 @@
+{{ partial "func/warn" `You are currently using 'partial "summary-with-image-gallery"' in your project templates. 
+You should replace it with '.Render "summary-with-image-gallery"' as the use of this partial will be deprecated in future releases.
+More info here: https://github.com/theNewDynamic/gohugo-theme-ananke/releases/tag/v2.8.1` }}
+{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+<article class="bb b--black-10">
+  <a href="/gallery" class="db grow">
+    <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
+  </a>
+</article>
