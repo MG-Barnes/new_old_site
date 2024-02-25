@@ -1,5 +1,23 @@
 baseURL = 'https://mgbarnes.com/'
 languageCode = 'en-us'
-title = 'Smart + Soft Manufacturing Group'
+title = 'Smart Manufacturing Group'
 theme = 'ananke'
 
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 300 # this is set low for demonstrating with dummy content. Set to a higher number
+summaryLength = 70
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/MGBarnes_"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/morgan-barnes-341173b3/"
+
+[[params.ananke_socials]]
+name = "google-scholar"
+url = "https://scholar.google.com/citations?user=RfwNursAAAAJ&hl=en"
+
+  
